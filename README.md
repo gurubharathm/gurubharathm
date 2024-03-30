@@ -11,8 +11,9 @@
 - 📫 How to reach me: gurubharathm11@gmail.com
 
 
-<a href="https://www.github.com/gurubharathm" target="_blank"><img
-src="https://img.shields.io/github/followers/gurubharathm?logo=github&style=for-the-badge&color=00000&labelColor=433443" /></a>
+<img src="https://komarev.com/ghpvc/?username=gurubharathm&label=Profile%20views&color=0e75b6&style=flat" alt="Guru Bharath Marabathina" /> 
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97">
+<a href="https://www.github.com/gurubharathm" target="_blank"><imgsrc="https://img.shields.io/github/followers/gurubharathm?logo=github&style=for-the-badge&color=00000&labelColor=433443" /></a> -->
 
 <h3 align="left">Skills:</h3>
 
