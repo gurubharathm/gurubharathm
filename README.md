@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/gurubharathm?logo=github&style=for-
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mssql,mongodb,mysql" />
   </a>
 </p>
 
