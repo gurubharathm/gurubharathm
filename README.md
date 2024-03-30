@@ -9,23 +9,30 @@ src="https://img.shields.io/github/followers/gurubharathm?logo=github&style=for-
 
 <h3 align="left">Skills:</h3>
 
-- Frontend
+**Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </p>
 
-- Database
+**Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mssql,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
-- Tools
+**Tools**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+  </a>
+</p>
+
+**Practiced**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,php" />
   </a>
 </p>
