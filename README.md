@@ -9,6 +9,19 @@ src="https://img.shields.io/github/followers/gurubharathm?logo=github&style=for-
 
 <h3 align="left">Skills:</h3>
 
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql,mongodb,mysql" />
+  </a>
+</p>
 
 - Tools
 <p align="left">
