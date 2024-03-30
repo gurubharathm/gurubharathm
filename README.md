@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;" />
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">, I'm Guru Bharath Marabathina</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 
 
 - 🔭 I'm currently working on Docker
