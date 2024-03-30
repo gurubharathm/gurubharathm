@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Guru Bharath Marabathina</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 
-
 - 🔭 I'm currently working on Docker
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on MERN/MEAN
