@@ -33,6 +33,6 @@ src="https://img.shields.io/github/followers/gurubharathm?logo=github&style=for-
 **Practiced**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,php" />
+    <img src="https://skillicons.dev/icons?i=php,androidstudio,wordpress" />
   </a>
 </p>
