@@ -1,4 +1,10 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Guru Bharath Marabathina</h1>
+<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<p align="center"></p>
+
 - 🔭 I'm currently working on Docker
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on MERN/MEAN
