@@ -79,13 +79,12 @@
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
 </p>
 
 - SQL Server
 - MySQL
 - MongoDB
-- PostgreSQL
 - Data Modeling
 - Database Design
 - Indexing
