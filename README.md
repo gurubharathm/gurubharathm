@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guru Bharath Marabathina</h1>
 
 <h3 align="center">
-  .NET Software Engineer | Technical Lead | Backend | System Design
+  .NET Software Engineer | Team Lead | Enterprise solutions | ° RGUKT (IIIT)
 </h3>
 
 <p align="center">
@@ -33,7 +33,6 @@
 - 🎨 Full-stack development experience across frontend and backend
 - 🐳 Working knowledge of **Docker and Kubernetes**
 - ☁️ Exploring **Cloud Architecture and AWS**
-- 📚 Building a structured technical knowledge base through my **Tech Library**
 - 🌱 Continuously learning, building, and improving
 
 ---
